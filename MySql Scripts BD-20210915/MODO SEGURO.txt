@@ -1,0 +1,4 @@
+-- MODO SEGURO
+-- 
+
+SET SQL_SAFE_UPDATES =0;
